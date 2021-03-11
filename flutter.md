@@ -1,9 +1,8 @@
 # Flutter
 ## 简介
----
 ### Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for **mobile**, **web**, and **desktop** from a single codebase.
-## 框架特性
 ---
+## 框架特性
 ### **Fast Development**
 #### Flutter's hot reload helps you quickly and easily experiment, build UIs, add features, and fix bugs faster. Experience sub-second reload times without losing state on emulators, simulators, and hardware.
 ### **Expressive, beautiful UIs**
